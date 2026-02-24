@@ -1,5 +1,7 @@
 # Polymarket Trading Bot
 
+I am actively improving the strategies now. Please wait for the next version.
+
 ## Performance
 
 <img width="299" height="200" alt="image" src="https://github.com/user-attachments/assets/dbe5bdfd-3afe-4e60-a9e2-472384b0dbe4" />
