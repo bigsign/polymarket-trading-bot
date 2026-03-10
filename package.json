@@ -1,5 +1,5 @@
 {
-    "name": "polymarket_trading_bot",
+    "name": "polymarket_copy_trading",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
